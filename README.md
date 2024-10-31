@@ -1,3 +1,6 @@
+
+![Learn-to-Build-Regression-Models-with-PySpark-and-Spark-MLlib](https://github.com/user-attachments/assets/ca952e96-b7aa-494c-afaf-57ccaa0e942e)
+
 # Learn to Build Regression Models with PySpark and Spark MLlib
 
 This repository contains a comprehensive guide to building and deploying regression models using PySpark and Spark MLlib. The project demonstrates step-by-step processes for implementing various types of regression, including Simple Linear Regression, Multiple Linear Regression, and Random Forest Regression.
